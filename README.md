@@ -38,7 +38,17 @@ Every star helps us reach more people!
 
 ## 📸 Screenshots
 
-Coming soon.
+### Dashboard
+
+![PriceWatcher Dashboard](screenshots/Screenshot 2026-08-30 at 11.17.12.png)
+
+### Add a Product
+
+![Add Product](screenshots/add-product.png)
+
+### Price Alert
+
+![Price Alert](screenshots/price-alert.png)
 
 ## 📬 Contact
 
