@@ -40,15 +40,19 @@ Every star helps us reach more people!
 
 ### Dashboard
 
-![PriceWatcher Dashboard](screenshots/Screenshot 2026-08-30 at 11.17.12.png)
+![PriceWatcher Dashboard](screenshots/dashboard.png)
 
-### Add a Product
+### Services
 
-![Add Product](screenshots/add-product.png)
+![Add Product](screenshots/services.png)
+
+### My watchers
+
+![Price Alert](screenshots/watchers.png)
 
 ### Price Alert
 
-![Price Alert](screenshots/price-alert.png)
+![Price Alert](screenshots/alerts.png)
 
 ## 📬 Contact
 
